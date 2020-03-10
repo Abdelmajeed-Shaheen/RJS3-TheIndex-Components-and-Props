@@ -1,5 +1,4 @@
 import React from "react";
-import authors from "./data";
 
 const AuthorCard = props => {
   return (
